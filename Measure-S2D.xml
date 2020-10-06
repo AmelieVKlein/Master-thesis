@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<SetOfMesureAppuisFlottants>
+     <MesureAppuiFlottant1Im>
+          <NameIm>1.JPG</NameIm>
+          <OneMesureAF1I>
+               <NamePt>1</NamePt>
+               <PtIm>1989.66137960490823 3273.33082224842792</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>2</NamePt>
+               <PtIm>4215.39710547407412 3107.3698226244951</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>3</NamePt>
+               <PtIm>4038.93364851041179 648.147543694619344</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>4</NamePt>
+               <PtIm>1803.73063767489543 802.232081874867617</PtIm>
+          </OneMesureAF1I>
+     </MesureAppuiFlottant1Im>
+     <MesureAppuiFlottant1Im>
+          <NameIm>2.JPG</NameIm>
+          <OneMesureAF1I>
+               <NamePt>1</NamePt>
+               <PtIm>1645.63963785510896 2954.09122989834214</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>2</NamePt>
+               <PtIm>3776.71657613033494 3388.50903185513562</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>3</NamePt>
+               <PtIm>4227.61475380662159 954.418927825249739</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>4</NamePt>
+               <PtIm>2045.81288499537072 578.033068442986405</PtIm>
+          </OneMesureAF1I>
+     </MesureAppuiFlottant1Im>
+     <MesureAppuiFlottant1Im>
+          <NameIm>4.JPG</NameIm>
+          <OneMesureAF1I>
+               <NamePt>1</NamePt>
+               <PtIm>1889.51227208678915 3199.35166381143245</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>2</NamePt>
+               <PtIm>4043.01289366665605 3287.2592399891214</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>3</NamePt>
+               <PtIm>4243.35196586231541 912.519817716838588</PtIm>
+          </OneMesureAF1I>
+          <OneMesureAF1I>
+               <NamePt>4</NamePt>
+               <PtIm>2056.27599380504034 718.464979101313475</PtIm>
+          </OneMesureAF1I>
+     </MesureAppuiFlottant1Im>
+</SetOfMesureAppuisFlottants>
